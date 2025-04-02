@@ -2,7 +2,7 @@
 
 void main()
 {
-	int state=0;
+	int state=4;
    	SetSVGA64k();
 	mouse_init(); 
 	if(mouse_press(0,0,1024,768)); 

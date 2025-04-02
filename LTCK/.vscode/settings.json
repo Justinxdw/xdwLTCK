@@ -32,6 +32,7 @@
         "vector": "cpp",
         "variant": "cpp",
         "sstream": "cpp",
-        "BMP.H": "cpp"
+        "BMP.H": "cpp",
+        "stdlib.h": "c"
     }
 }
